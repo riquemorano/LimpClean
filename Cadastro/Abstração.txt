@@ -1,0 +1,20 @@
+*Sistema de cadastro de cliente*
+
+Esse sistema terá que oferecer opções de:
+
+Cadastrar um cliente.
+Mostrar todos os clientes cadastrados.
+Remover	um cliente.
+Alterar os dados de um cliente.
+Procurar um cliente no sistema.
+
+
+*Sistema de produtos*
+
+Esse sistema terá que oferecer opções de:
+
+Cadastrar um produto.
+Listar os produtos cadastrados.
+Vender um produto.
+Reestocar um produto.
+Mostrar o valor gerado pelas vendas.

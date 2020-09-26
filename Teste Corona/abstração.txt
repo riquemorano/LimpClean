@@ -1,0 +1,31 @@
+﻿Verifica os sintomas e situações
+
+    Febre é Comum 
+    Cansaço acontece Às Vezes
+    Tosse é Comum
+    Espirro é Raro
+    Dores no corpo acontece Às Vezes
+    Mal Estar acontece Às Vezes
+    Coriza (Nariz Entupido) é Raro
+    Dor de garganta acontece Às Vezes
+    Diarreia é Raro
+    Dor de Cabeça acontece Às Vezes
+    Falta de ar acontece Às Vezes
+    Falta de Paladar é Comum
+    Falta de Olfato é Comum
+    Contato com outra pessoa com corona é Perigoso
+    Furar a Quarentena é Não Recomendado 
+
+    Valores dos sintomas e situações
+
+        Raro vale 1
+        Às Vezes vale 3 
+        Comum vale 5
+        Perigoso vale 10
+        Não Recomendado vale 7
+
+Mostra resultado 
+
+    Maior que 28 Provavelmente tem corona
+    de 14 até 28 Suspeita de corona
+    0 até 14 Provavelmente não tem corona
